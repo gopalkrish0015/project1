@@ -11,15 +11,10 @@ public static void main(String[] args) {
 	System.out.println(b);
 	int c=30;
 	System.out.println(c);
-	int g=50;
-	System.out.println(70);
+	System.out.println("gopal");
 	
 	
-	
-	
-	
-	
-	
+		
 }
 
 }
