@@ -9,9 +9,16 @@ public static void main(String[] args) {
 	System.out.println(a);
 	int b=20;
 	System.out.println(b);
-	int c=30;
-	System.out.println(c);
+
+	int c =50;
+	System.out.println(20);
+	System.out.println("overwrite");
+	int d=30;
+	System.out.println(d);
 	System.out.println("gopal");
+	
+	System.out.println("rework project");
+
 	
 	
 		
